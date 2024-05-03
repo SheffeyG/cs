@@ -1,7 +1,6 @@
 # CMake stuff
 CMakeCache.txt
 CMakeFiles
-Makefile
 CMakeScripts
 Testing
 cmake_install.cmake
